@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '3837'
     url: http://www.gutenberg.org/2009/agents/3837
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15526#John-L.-Stoddard-s-Lectures-Vol.-10--of-10-Southern-California--Grand-Canon-of-the-Colorado-R_
 gutenberg_issued: '2005-04-02'
 gutenberg_type: Text
 identifiers:
